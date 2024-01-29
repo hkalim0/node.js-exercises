@@ -1,0 +1,13 @@
+{
+  "name": "exercise3",
+  "version": "1.0.0",
+  "description": "Certainly! Below are the steps outlined in the GitHub README.md file to create a package.json file and install Express:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

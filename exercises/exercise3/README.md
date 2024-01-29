@@ -42,7 +42,7 @@ Follow these steps to create an Express server:
 4. **Start the Express server**:
    Run the following command in your terminal to start the Express server:
 
-   node server.js
+   npm run start
    
 
 5. **Test your Express server**:
